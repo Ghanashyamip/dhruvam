@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DHRUVAM</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>✨ Welcome to OUR DHRUVAM ✨</h1>
+    <p>Dance reels, memes, chaos, and love—this is us.</p>
+  </header>
+
+  <section id="timeline">
+    <h2>📅 Timeline</h2>
+    <ul>
+      <li><strong>Jan 2023:</strong> First group dance reel 💃</li>
+      <li><strong>Mar 2023:</strong> Meme war begins 😂</li>
+      <li><strong>Aug 2023:</strong> Friendship trip to UDUPPI 🏞️</li>
+    </ul>
+  </section>
+
+  <section id="gallery">
+    <h2>📸 Gallery</h2>
+    <img src="your-photo-url.jpg" alt="Group Photo">
+    <video controls src="your-video-url.mp4"></video>
+  </section>
+
+  <footer>
+    <p>Made with ❤️ </p>
+  </footer>
+</body>
+</html>
